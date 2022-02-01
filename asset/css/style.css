@@ -1,0 +1,163 @@
+/*Reset*/
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/*Reset*/
+
+
+
+
+body{
+    background-color: rgba(246,248,249,255);
+}
+
+header{
+    height: 100px;
+    background-color: white;
+}
+
+#logo{
+    height: 70px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    display: inline-block;
+    vertical-align: middle;
+    
+
+
+}
+
+h1{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: inline-block;
+    
+}  
+
+main{
+    background-color: white;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    border-radius: 10px;
+    
+}
+.container1{
+    margin: 30px 30px;
+    display: inline-block;
+    
+}
+.container2{
+    margin: 30px 30px;
+    
+    
+}
+
+#button1{
+    
+    background-color:rgba(81,177,242,255) ;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    padding: 8px 20px;
+    display: inline-block
+
+
+}
+#button2{
+    border-style: solid;
+    border-color: lightslategray;
+    background-color:white;
+    color: lightslategray;
+    border-radius: 5px;
+    text-align: center;
+    padding: 6px 20px;
+    display: inline-block;
+
+
+}
+hr{
+    color: rgba(246,248,249,255);
+    height: 5px;
+    width: 100%;
+    border-color: rgba(246,248,249,255);
+
+}
+
+#check{
+    color: lime;
+   display: inline-block;
+   border: lime solid;
+   height: 25px;
+   width: 25px;
+   text-align: center;
+   border-radius: 50%;
+   vertical-align: middle;
+
+}
+.ballot-x{
+
+    color:red;
+    display: inline-block;
+    border: red solid;
+    height: 25px;
+    width: 25px;
+    text-align: center;
+    border-radius: 50%;
+    vertical-align: middle;
+}
+
+
+.blue-tag{
+    background-color: rgba(81,177,242,255);
+    padding: 5px 5px;
+    border-radius: 5px;
+    color: white;
+
+}
+.purple-tag{
+    background-color: slateblue;
+    padding: 5px 5px;
+    border-radius: 5px;
+    color: white;
+
+}
+.green-tag{
+    background-color: lightseagreen;
+    padding: 5px 5px;
+    border-radius: 5px;
+    color: white;
+
+}
+
+.margin{
+    margin-top: 25px;
+}
+
+.brown-tag{
+    background-color: burlywood;
+    padding: 5px 5px;
+    border-radius: 5px;
+    color: white;
+
+}
+.rose-tag{
+    background-color:plum;
+    padding: 5px 5px;
+    border-radius: 5px;
+    color: white;
+
+}
+.lightgreen-tag{
+    background-color: lightgreen;
+    padding: 5px 5px;
+    border-radius: 5px;
+    color: white;
+
+}
+
+ 
